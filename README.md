@@ -1,1 +1,4 @@
+---
+article: false
+---
 # sacred-texts
