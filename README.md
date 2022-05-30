@@ -1,4 +1,6 @@
 ---
+title: Sacred Texts
 article: false
+icon: snow
 ---
-# sacred-texts
+# Sacred Texts
