@@ -289,7 +289,7 @@ after the completion of the hyphenated word.
 
 DIV0=the whole work;
 DIV1=the individual annal (the text for a given year);
-DIV2=the individual entry in an annal, whether these are 
+DIV2></DIV2>=the individual entry in an annal, whether these are 
 numbered in the edition (Mac Airt & Mac Niocaill) or not (Mac Carthy). 
 Passages of verse occurring within text paragraphs or within marginalia are treated as embedded texts and, where relevant, stanzas are enumerated in the structural mark-up. The page-breaks of the printed texts and the manuscript folio numbers are marked. From 1155 to the end, the folio and 
 column numbers of each manuscript are recorded.
@@ -312,7 +312,7 @@ tagged.
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Year. Refs: EVENT (<DIV2></DIV2>)This text uses the DIV1 element to represent the Year. 
+This text uses the DIV1 element to represent the Year. Refs: EVENT (<DIV2></DIV2>></DIV2></DIV2>>)This text uses the DIV1 element to represent the Year. 
 
 ### Profile Description
 

@@ -113,7 +113,7 @@ Names of persons, groups and places are tagged.
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the annal. Refs: EVENT (<DIV2>)This text uses the DIV1 element to represent the annal. ### Profile Description
+This text uses the DIV1 element to represent the annal. Refs: EVENT (<DIV2></DIV2>>)This text uses the DIV1 element to represent the annal. ### Profile Description
 
 
 Created: By monks and secular scholars, over various centuries.

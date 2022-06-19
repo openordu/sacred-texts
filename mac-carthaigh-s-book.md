@@ -110,7 +110,7 @@ lord, bishop, abbot, priest, scholar, lector, scribe etc.) have not been tagged.
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Annal. Refs: EVENT (<DIV2>)This text uses the DIV1 element to represent the Annal. ### Profile Description
+This text uses the DIV1 element to represent the Annal. Refs: EVENT (<DIV2></DIV2>>)This text uses the DIV1 element to represent the Annal. ### Profile Description
 
 
 Created: Translation by Séamus Ó hInnse 

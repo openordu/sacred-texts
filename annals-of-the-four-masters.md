@@ -151,7 +151,7 @@ Soft hyphens are silently removed. When a hyphenated word (hard or soft) crosses
 ##### Segmentation
 
 
-DIV0=the whole work; DIV1=the individual annals (i.e. the annalistic matter gathered under one year); DIV2=the annalistic entry; paragraphs are marked; passages of verse occurring within paragraphs are treated as embedded texts and the stanzas are marked LG and metrical lines are marked L. Page-breaks are marked.
+DIV0=the whole work; DIV1=the individual annals (i.e. the annalistic matter gathered under one year); DIV2></DIV2>=the annalistic entry; paragraphs are marked; passages of verse occurring within paragraphs are treated as embedded texts and the stanzas are marked LG and metrical lines are marked L. Page-breaks are marked.
 
 
 ##### Standard Values
@@ -169,7 +169,7 @@ Personal names, place names (kingdoms, lordships, churches, monasteries etc.) an
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Annal. Refs: EVENT (<DIV2>)This text uses the DIV1 element to represent the Annal. ### Profile Description
+This text uses the DIV1 element to represent the Annal. Refs: EVENT (<DIV2></DIV2>>)This text uses the DIV1 element to represent the Annal. ### Profile Description
 
 
 Created: The material for the twelfth century and before is by unknown authors in Irish monastic scriptoria; later medieval material is drawn from the collections of Irish professional learned families; the material for the seventeenth century is drawn from contemporary sources and observations.

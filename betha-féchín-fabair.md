@@ -137,7 +137,7 @@ many.
 <DIV1>: The principal subdivision of a text.
 
 
-<DIV2>: Secondary subdivision of the text.
+<DIV2></DIV2>>: Secondary subdivision of the text.
 
 
 <PS>: Surrounds all personal names.
