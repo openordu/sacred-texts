@@ -3,14 +3,6 @@
 #Annala Uladh: Annals of Ulster otherwise Annala Senait, Annals of Senat
 
 
-<!-- // 
- function footNote(link) {
- openpopup = window.open(link,"openpopup","width=512,height=128,left=256,top=256,resizable=no,scrollbars=1,menubar=1,statusbar=0,toolbar=0");
-}
-// -->
-
-
-
 #### Corpus of Electronic Texts Edition
 
 
@@ -22,7 +14,7 @@ Annala Uladh: Annals of Ulster otherwise Annala Senait, Annals of Senat
 
 
 Author: [unknown]
------------------
+--
 
 
 ### File Description
@@ -207,8 +199,7 @@ time, life and legacy', Clogher Rec 16/2 (1998)
 36. Daniel P. Mc Carthy, 'The original compilation of the Annals of Ulster', Studia Celtica 38 (2004) 77-84.
 37. Daniel P. Mc Carthy, The Irish Annals: their genesis, evolution and history (Dublin 2008).
 **The edition used in the digital edition.**2. Annala Uladh: Annals of Ulster otherwise Annala 
-Senait, Annals of Senat. B. Mac Carthy (ed), First edition [vol. ii [iv, including 2 pages of corrigenda and addenda] +
-565 pp; vol. iii 637 pp + 4 pages of corrigenda and addenda] Lord Commissioner of Her Majesty's Treasury under the direction of the Council of the Royal Irish Academy (Her Majesty's Stationery Office) Dublin (1893)
+Senait, Annals of Senat. B. Mac Carthy (ed), First edition [vol. ii [iv, including 2 pages of corrigenda and addenda + 565 pp; vol. iii 637 pp + 4 pages of corrigenda and addenda] Lord Commissioner of Her Majesty's Treasury under the direction of the Council of the Royal Irish Academy (Her Majesty's Stationery Office) Dublin (1893)
 
 ### Encoding
 
@@ -428,7 +419,7 @@ History Department, University College, Cork.
 
 
 
----
+
 
 
 #### Corpus of Electronic Texts Edition: G100001B
@@ -451,7 +442,7 @@ History Department, University College, Cork.
 
 
 
----
+
 
 p.236
 
@@ -476,7 +467,7 @@ iiii., Anno Domini M.cc.ii.
 
 
 
----
+
 
 p.238
 
@@ -575,7 +566,7 @@ quieuit.
 
 
 
----
+
 
 p.240
 
@@ -653,7 +644,7 @@ lar croí
 
 
 
----
+
 
 p.242
 
@@ -725,7 +716,7 @@ Eogain**.
 
 
 
----
+
 
 p.244
 
@@ -794,7 +785,7 @@ poeta:
 > 'Nocht gan crabadh n-a cathraigh.
 > 
 > 
-> ---
+> 
 > 
 > p.246
 > 
@@ -883,7 +874,7 @@ chur sin.
 Sloghadh la h-**Uga de Laci**
 
 
----
+
 
 p.248
 
@@ -953,7 +944,7 @@ dú in ramarbadh a n-ár.
 
 
 
----
+
 
 p.250
 
@@ -1022,7 +1013,7 @@ Mhail Sheachlainn**.)
 
 
 
----
+
 
 p.252
 
@@ -1116,7 +1107,7 @@ mór & **Inis Eogain** co huilidhi do milliudh doib
 
 
 
----
+
 
 p.254
 
@@ -1223,7 +1214,7 @@ féin i
 
 
 
----
+
 
 p.256
 
@@ -1304,7 +1295,7 @@ Christo quieuit.)
 
 
 
----
+
 
 p.258
 
@@ -1387,7 +1378,7 @@ n-**Ulltaibh** & tuc maidm mor for **Gallaibh** **Uladh**.
 
 
 
----
+
 
 p.260
 
@@ -1510,7 +1501,7 @@ uia quieuit.
 
 
 
----
+
 
 p.262
 
@@ -1596,7 +1587,7 @@ quieuit.
 
 
 
----
+
 
 p.264
 
@@ -1701,7 +1692,7 @@ uoluntate Domini sex fratres mir*a*e sanctitatis ad regnum **Marrochiorum**, uid
 
 
 
----
+
 
 p.266
 
@@ -1764,7 +1755,7 @@ tercii
 
 
 
----
+
 
 p.268
 
@@ -1816,7 +1807,7 @@ iiii. Anno Domini M.cc.xx.i.
 
 
 
----
+
 
 p.270
 
@@ -1908,7 +1899,7 @@ quieuit.)
 
 
 
----
+
 
 p.272
 
@@ -1989,7 +1980,7 @@ mortu*u*s est.
 
 
 
----
+
 
 p.274
 
@@ -2073,7 +2064,7 @@ Domnaill**, quieuit in Christo.
 
 
 
----
+
 
 p.276
 
@@ -2190,7 +2181,7 @@ h-Ui Conchobuir**.
 
 
 
----
+
 
 p.278
 
@@ -2271,7 +2262,7 @@ Ruairc**.
 
 
 
----
+
 
 p.280
 
@@ -2384,7 +2375,7 @@ Christo quieuit.
 
 
 
----
+
 
 p.282
 
@@ -2465,7 +2456,7 @@ doibh.
 
 
 
----
+
 
 p.284
 
@@ -2553,7 +2544,7 @@ Raighillaigh**, co ruc **ben h-Ui
 
 
 
----
+
 
 p.286
 
@@ -2664,7 +2655,7 @@ Sluaghadh
 
 
 
----
+
 
 p.288
 
@@ -2728,7 +2719,7 @@ Ruadhri**, ann, idon, for
 
 
 
----
+
 
 p.290
 
@@ -2836,7 +2827,7 @@ Cath do
 
 
 
----
+
 
 p.292
 
@@ -2935,7 +2926,7 @@ broidi.
 
 
 
----
+
 
 p.294
 
@@ -3028,7 +3019,7 @@ marbadh d'a **braithribh**.
 
 
 
----
+
 
 p.296
 
@@ -3123,7 +3114,7 @@ consecratus est
 
 
 
----
+
 
 p.298
 
@@ -3189,7 +3180,7 @@ quieuerunt hoc anno.)
 
 
 
----
+
 
 p.300
 
@@ -3265,7 +3256,7 @@ Anno Domini M.cc.xl.iii.
 
 
 
----
+
 
 p.302
 
@@ -3379,7 +3370,7 @@ Cagadh mor eter **ri** **Saxan** & **Bretain** in bliadhain si.
 
 
 
----
+
 
 p.304
 
@@ -3454,7 +3445,7 @@ Neill**.
 
 
 
----
+
 
 p.306
 
@@ -3520,7 +3511,7 @@ bliadhain si) & bailedha imdha do loscadh & **Goill** imdha do marbadh leó.
 
 
 
----
+
 
 p.308
 
@@ -3591,7 +3582,7 @@ Macha**.
 ***Iusdis** na h-**Eirenn** do dul, sluagh, gu **Cuil Rathain**
 
 
----
+
 
 p.310
 
@@ -3673,7 +3664,7 @@ si.)
 
 
 
----
+
 
 p.312
 
@@ -3782,7 +3773,7 @@ d'**Airghiallaibh**.
 
 
 
----
+
 
 p.314
 
@@ -3883,7 +3874,7 @@ do thabairt a dhearbhrathar fein, idon, **Ruaighri h-Ua Neill**, do bhraighid do
 
 
 
----
+
 
 p.316
 
@@ -3969,7 +3960,7 @@ Anno Domini M.cc.l.iiii.
 
 
 
----
+
 
 p.318
 
@@ -4074,7 +4065,7 @@ Ricaird Cuisin**.
 
 
 
----
+
 
 p.320
 
@@ -4240,7 +4231,7 @@ Issill**.)
 
 
 
----
+
 
 p.324
 
@@ -4315,7 +4306,7 @@ Christo.
 
 
 
----
+
 
 p.326
 
@@ -4393,7 +4384,7 @@ airdepscopoide **Tuama**.)
 
 
 
----
+
 
 p.328
 
@@ -4476,7 +4467,7 @@ Maithi **cleirech** **Cene*oi*l Conaill** do marbhadh la **Conchobur
 
 
 
----
+
 
 p.330
 
@@ -4565,7 +4556,7 @@ cedna.)
 
 
 
----
+
 
 p.332
 
@@ -4678,7 +4669,7 @@ Samhradh te isin bliadhain si.
 
 
 
----
+
 
 p.334
 
@@ -4780,7 +4771,7 @@ est.
 
 
 
----
+
 
 p.336
 
@@ -4858,7 +4849,7 @@ Macha** in bliadhain si.*
 
 
 
----
+
 
 p.338
 
@@ -4963,7 +4954,7 @@ Muircertaigh h-Ui Briain** & **rí** *a* mac,
 
 
 
----
+
 
 p.340
 
@@ -5055,7 +5046,7 @@ Muiris**.
 **Tadhg mac Neill Mic Muiredhaigh**
 
 
----
+
 
 p.342
 
@@ -5139,7 +5130,7 @@ Gorta mór do*fh*olachta i n-**Erinn** isin
 
 
 
----
+
 
 p.344
 
@@ -5244,7 +5235,7 @@ Mhag Shamrudhain** quieuit in *Christo*.
 **Caislen** **Rosa Comain**
 
 
----
+
 
 p.346
 
@@ -5347,7 +5338,7 @@ Lodhais**.)
 
 
 
----
+
 
 p.348
 
@@ -5439,7 +5430,7 @@ h-Ui Ruairc**.)
 
 
 
----
+
 
 p.350
 
@@ -5527,7 +5518,7 @@ thiachtain asin **Mumain** imesc **Connacht** & tiacht do
 **Clainn Tairrdhelbaigh**
 
 
----
+
 
 p.352
 
@@ -5612,7 +5603,7 @@ quieuit.
 
 
 
----
+
 
 p.354
 
@@ -5709,7 +5700,7 @@ Marcii).
 
 
 
----
+
 
 p.356
 
@@ -5770,7 +5761,7 @@ Neachtain**. Ocus comrac d'fhuagra*dh* do
 
 
 
----
+
 
 p.358
 
@@ -5857,7 +5848,7 @@ Cath **Disirt da Crich** eter **Conall** &
 Domnaill** (le h-**Aedh m-Buide**
 
 
----
+
 
 p.360
 
@@ -5911,7 +5902,7 @@ dochinnset ar bheoghacht &
 
 
 
----
+
 
 p.362
 
@@ -6009,7 +6000,7 @@ leis h-**Ua *Raghallaigh***.)
 
 
 
----
+
 
 p.364
 
@@ -6116,7 +6107,7 @@ ann.
 
 
 
----
+
 
 p.366
 
@@ -6224,7 +6215,7 @@ tregadh do **Tomaltach** cetna do macaibh
 
 
 
----
+
 
 p.368
 
@@ -6311,7 +6302,7 @@ ghabhail.
 
 
 
----
+
 
 p.370
 
@@ -6399,7 +6390,7 @@ Uilliam** & **Mac Fheorais** i mebhail
 
 
 
----
+
 
 p.372
 
@@ -6476,7 +6467,7 @@ finem perduxit, Nonis Marcii.)
 
 
 
----
+
 
 p.374
 
@@ -6525,7 +6516,7 @@ tuaith & co tainic i **Connachtaibh** co h-**Oil Finn**
 
 
 
----
+
 
 p.376
 
@@ -6597,7 +6588,7 @@ Tuirtri****, occissus est.)
 **brathair**
 
 
----
+
 
 p.378
 
@@ -6713,7 +6704,7 @@ do
 
 
 
----
+
 
 p.380
 
@@ -6816,7 +6807,7 @@ mharbadh.)
 
 
 
----
+
 
 p.382
 
@@ -6940,7 +6931,7 @@ dhenum do **Mac Gerailt** & do
 
 
 
----
+
 
 p.384
 
@@ -7040,7 +7031,7 @@ Ferghail**.
 
 
 
----
+
 
 p.386
 
@@ -7096,7 +7087,7 @@ Concobuir** & **Mac Diarmata** &
 
 
 
----
+
 
 p.388
 
@@ -7173,7 +7164,7 @@ flaithemnus i n-a comaímsir, quieuit in *Christo* (& a adhlucudh im **Mainisdir
 
 
 
----
+
 
 p.390
 
@@ -7232,7 +7223,7 @@ Floind*, quieuit in *Christo*.
 
 
 
----
+
 
 p.392
 
@@ -7327,7 +7318,7 @@ fheil **Muire** moir in fhoghmhuir),
 
 
 
----
+
 
 p.394
 
@@ -7417,7 +7408,7 @@ Crisdaidhachta do dhul fa'n gairm sin d'a n-oilithri co **Roim**
 
 
 
----
+
 
 p.396
 
@@ -7497,7 +7488,7 @@ M.cc.xc.uiii.*1302*
 
 
 
----
+
 
 p.398
 
@@ -7602,7 +7593,7 @@ toraidhecht creiche ruc se leis a **Muigh Cetne**.
 
 
 
----
+
 
 p.400
 
@@ -7710,7 +7701,7 @@ thuitim ar in lathair cetna.
 
 
 
----
+
 
 p.402
 
@@ -7782,7 +7773,7 @@ Uidhir** do bheith.)
 
 
 
----
+
 
 p.404
 
@@ -7856,7 +7847,7 @@ Concobuir** & benais an crech dhe & marbthar
 
 
 
----
+
 
 p.406
 
@@ -7944,7 +7935,7 @@ Uider**.)
 
 
 
----
+
 
 p.408
 
@@ -8037,7 +8028,7 @@ coimdes ím gach ni, quieuit in *Christo*.
 
 
 
----
+
 
 p.410
 
@@ -8117,7 +8108,7 @@ co tucadh maidm forro co leic **Esa Dara**. Ocus do marbadh leo
 
 
 
----
+
 
 p.412
 
@@ -8203,7 +8194,7 @@ don lucht soir 'sin lo cetna & **Faghartach O
 
 
 
----
+
 
 p.414
 
@@ -8290,7 +8281,7 @@ do marbadh.
 
 
 
----
+
 
 p.416
 
@@ -8394,7 +8385,7 @@ Cetne** in tan sin.
 
 
 
----
+
 
 p.418
 
@@ -8495,7 +8486,7 @@ ar leth.
 
 
 
----
+
 
 p.420
 
@@ -8626,7 +8617,7 @@ est.
 
 
 
----
+
 
 p.422
 
@@ -8745,7 +8736,7 @@ mac Cathail *U*i Chonchobuir**, i
 
 
 
----
+
 
 p.424
 
@@ -8815,7 +8806,7 @@ Choncobuir**, ar cennaidhecht do ceithirn **gallóglach**.
 
 
 
----
+
 
 p.426
 
@@ -8872,7 +8863,7 @@ Feorais**, **tigherna** **Atha na Righ**
 
 
 
----
+
 
 p.428
 
@@ -8949,7 +8940,7 @@ righadh le **Connachta**.
 
 
 
----
+
 
 p.430
 
@@ -9047,7 +9038,7 @@ Coille**. Ocus targad **Cathal** comhadha mora do
 
 
 
----
+
 
 p.432
 
@@ -9117,7 +9108,7 @@ soighde.
 
 
 
----
+
 
 p.434
 
@@ -9214,7 +9205,7 @@ Donn Mac Aedhagan** & a mac &
 
 
 
----
+
 
 p.436
 
@@ -9356,7 +9347,7 @@ Auguist).
 
 
 
----
+
 
 p.438
 
@@ -9461,7 +9452,7 @@ marbadh.
 
 
 
----
+
 
 p.440
 
@@ -9571,7 +9562,7 @@ coroin **righ** do thabairt don mac cetna tre
 
 
 
----
+
 
 p.442
 
@@ -9701,7 +9692,7 @@ Fheorais, Iarla **Lughbaidh****, in t-aen
 
 
 
----
+
 
 p.444
 
@@ -9781,7 +9772,7 @@ Maidm le **Brian O m-Briain**, du
 
 
 
----
+
 
 p.446
 
@@ -9893,7 +9884,7 @@ fos, ar in lathair cetna.
 
 
 
----
+
 
 p.448
 
@@ -9973,7 +9964,7 @@ Raighilligh**, in festo Natalis Domini, scilicet *A.D.* 1327.)
 
 
 
----
+
 
 p.450
 
@@ -10071,7 +10062,7 @@ mortuus est.
 
 
 
----
+
 
 p.452
 
@@ -10154,7 +10145,7 @@ le
 
 
 
----
+
 
 p.454
 
@@ -10236,7 +10227,7 @@ n-**Erinn** i n-a aimsir fein, a eg a n-Domnach na Trinoide, i n-a
 
 
 
----
+
 
 p.456
 
@@ -10349,7 +10340,7 @@ Meith)** re h-**Oirghiallaibh** & re
 
 
 
----
+
 
 p.458
 
@@ -10436,7 +10427,7 @@ thidlaic d'airged & d'innmus, d'echaibh & d'almhaibh
 
 
 
----
+
 
 p.460
 
@@ -10533,7 +10524,7 @@ Toirrdelbaigh h-Ui Briain**, do thabairt do
 
 
 
----
+
 
 p.462
 
@@ -10598,7 +10589,7 @@ Breifnigh** & do rinneadur
 
 
 
----
+
 
 p.464
 
@@ -10705,7 +10696,7 @@ a cheile.
 
 
 
----
+
 
 p.466
 
@@ -10842,7 +10833,7 @@ Mac
 
 
 
----
+
 
 p.468
 
@@ -10894,7 +10885,7 @@ Eilidhe**.
 
 
 
----
+
 
 p.470
 
@@ -10965,7 +10956,7 @@ dul do thigh **Mic Diarmata** 'san aidhci. Ocus
 
 
 
----
+
 
 p.472
 
@@ -11023,7 +11014,7 @@ dilliuchta an eigsi, & an eladha gan fer a h-imochair, na a
 
 
 
----
+
 
 p.474
 
@@ -11139,7 +11130,7 @@ Leith**, macamh **Gall** **Erenn** ar einech
 
 
 
----
+
 
 p.476
 
@@ -11218,7 +11209,7 @@ nech ris don **fine Gaidhelaigh** i n-a aimsir fein. Co
 
 
 
----
+
 
 p.478
 
@@ -11307,7 +11298,7 @@ Raghnaill**.
 
 
 
----
+
 
 p.480
 
@@ -11381,7 +11372,7 @@ est oc*c*isus.
 
 
 
----
+
 
 p.482
 
@@ -11454,7 +11445,7 @@ marbadh do **Maelruanaig Mac Donnchaidh**.
 
 
 
----
+
 
 p.484
 
@@ -11526,7 +11517,7 @@ mó do rinne do
 
 
 
----
+
 
 p.486
 
@@ -11633,7 +11624,7 @@ loscadh do mac **Cathail**.
 
 
 
----
+
 
 p.488
 
@@ -11719,7 +11710,7 @@ Baighill**,
 
 
 
----
+
 
 p.490
 
@@ -11826,7 +11817,7 @@ righ **Muighi Luirg****, do marbadh a
 
 
 
----
+
 
 p.492
 
@@ -11941,7 +11932,7 @@ damaibh
 
 
 
----
+
 
 p.494
 
@@ -12012,7 +12003,7 @@ Muircertaigh**.
 
 
 
----
+
 
 p.496
 
@@ -12150,7 +12141,7 @@ Ruairc**, d'eg.
 **Laigheis****, do marbadh d'a **braithribh**
 
 
----
+
 
 p.498
 
@@ -12280,7 +12271,7 @@ Mhathgamna**.
 
 
 
----
+
 
 p.500
 
@@ -12398,7 +12389,7 @@ Concobuir**, d'éc.
 
 
 
----
+
 
 p.502
 
@@ -12520,7 +12511,7 @@ sexto Idus Aprilis.
 
 
 
----
+
 
 p.504
 
@@ -12643,7 +12634,7 @@ Ceallaigh****, d'ég.
 
 
 
----
+
 
 p.506
 
@@ -12745,7 +12736,7 @@ n-diaig na creac, *A.D.* 1355.)
 
 
 
----
+
 
 p.508
 
@@ -12854,7 +12845,7 @@ d'eg.
 
 
 
----
+
 
 p.510
 
@@ -12995,7 +12986,7 @@ Kal. Ian.
 
 
 
----
+
 
 p.512
 
@@ -13162,7 +13153,7 @@ Chellaigh**,
 
 
 
----
+
 
 p.514
 
@@ -13301,7 +13292,7 @@ Gaeth mor isin bliadhain sin dobris tighi & **teampaill**, dobaith longa
 
 
 
----
+
 
 p.516
 
@@ -13428,7 +13419,7 @@ Goisdelb** ar
 
 
 
----
+
 
 p.518
 
@@ -13496,7 +13487,7 @@ bliadhain sin, amail adbert: Rann:
 ghabail **righi** n-**Oirghiall** & cleamhnus & caradrag d'fhas dó ar **Somairligh mac Eoin Duibh Mic Domnaill**, ar **Consdabla**
 
 
----
+
 
 p.520
 
@@ -13538,7 +13529,7 @@ Nochor olc gan inneachudh re h-athgairit in t-olc sin. Uair ro tinoil
 comadha mora & **brathair**-si & sithcain do clainn **Aedha Buidhe *U*i Neill**, idon, do **Brian mac Enri *U*í Neill**, co n-a **braithribh**. Ocus tainic fós isin coimtinol cetna **Niall mac Murchadha mic Murchadha Mhoir Mheg Mathgamna**, derbrathair mathar **Mic Domnaill**
 
 
----
+
 
 p.522
 
@@ -13605,7 +13596,7 @@ ar **Srath Fer Luirg** le
 
 
 
----
+
 
 p.524
 
@@ -13661,7 +13652,7 @@ acht ro innsaighdur cum in atha ar a facadur **Raghnall**
 
 
 
----
+
 
 p.526
 
@@ -13722,7 +13713,7 @@ Fheorais** & fa mór in gnim **Goill**
 
 
 
----
+
 
 p.528
 
@@ -13798,7 +13789,7 @@ est, —idon, sgel **uirrigh** is
 
 
 
----
+
 
 p.530
 
@@ -13877,7 +13868,7 @@ gaiscidh **Leithi Cuind**, d'ec
 
 
 
----
+
 
 p.532
 
@@ -13962,7 +13953,7 @@ Mac Domnaill, do tigherna
 
 
 
----
+
 
 p.534
 
@@ -14018,7 +14009,7 @@ n-einigh no uaisli, no oiregdhachta, d'eg in bliadhain si.
 
 
 
----
+
 
 p.536
 
@@ -14114,7 +14105,7 @@ Maidm do thabairt ar **Maghnus h-Ua Raighillaigh**
 
 
 
----
+
 
 p.538
 
@@ -14193,7 +14184,7 @@ Augusti).
 
 
 
----
+
 
 p.540
 
@@ -14270,7 +14261,7 @@ Toisc loingsi do denum la **Pilib Mag Uidhir, idon, rí **Fer Manach****, co n-a
 
 
 
----
+
 
 p.542
 
@@ -14357,7 +14348,7 @@ Uladh Óg** & a ben, ingen **Maghnusa Meg Mathgamna**.
 
 
 
----
+
 
 p.544
 
@@ -14468,7 +14459,7 @@ Ianuarii hoc anno.)
 
 
 
----
+
 
 p.546
 
@@ -14549,7 +14540,7 @@ d'a leanmain &
 
 
 
----
+
 
 p.548
 
@@ -14624,7 +14615,7 @@ cloidhim. Ocus ní dernadh isin aimsir sin marbadh is crodha
 
 
 
----
+
 
 p.550
 
@@ -14721,7 +14712,7 @@ fein a **Muinntir
 
 
 
----
+
 
 p.552
 
@@ -14804,7 +14795,7 @@ Sluaighedh mor la **Níall h-Ua Neill** co
 
 
 
----
+
 
 p.554
 
@@ -14917,7 +14908,7 @@ M.ccc.lxx.i.*1376*
 
 
 
----
+
 
 p.556
 
@@ -15040,7 +15031,7 @@ Iuini, scilicet, Anno Domini,
 
 
 
----
+
 
 p.558
 
@@ -15139,7 +15130,7 @@ ar **Mac Uilliam** & ar **Mainechaibh**
 **Domnall**
 
 
----
+
 
 p.560
 
@@ -15242,7 +15233,7 @@ Constabla Coicidh **Connacht****, d'eg
 
 
 
----
+
 
 p.562
 
@@ -15375,7 +15366,7 @@ Decimbris. [5](javascript:footNote('G100001B/note005.html'))
 
 
 
----
+
 
 p.564
 
