@@ -167,7 +167,7 @@ Names (of persons, groups, dynasties, peoples, lineages, places) are tagged. Soc
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Year. Refs: EVENT (<DIV2></DIV2>>)This text uses the DIV1 element to represent the Year. ### Profile Description
+This text uses the DIV1 element to represent the Year. Refs: EVENT (DIV2)This text uses the DIV1 element to represent the Year. ### Profile Description
 
 
 Created: By mostly unknown authors in Irish monastic scriptoria
