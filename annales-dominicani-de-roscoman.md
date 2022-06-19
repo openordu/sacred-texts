@@ -283,7 +283,7 @@ Names of persons (given names), groups (peoples etc.), places are tagged. Names 
 #### Canonical References
 
 
-This text uses the DIV2 element to represent the Year. Refs: EVENT (<DIV3>)This text uses the DIV2 element to represent the Year. ### Profile Description
+This text uses the DIV2 element to represent the Year. Refs: EVENT (DIV3)This text uses the DIV2 element to represent the Year. ### Profile Description
 
 
 Created: Latin text by Dominican chroniclers in their priory at Roscommon, compiling and redacting earlier materials; of which material extracts were made by Sir James Ware.

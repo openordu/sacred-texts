@@ -109,28 +109,6 @@ div0=the text. Page-breaks are marked using milestone pb.
 
 Names of persons (given names), groups (dynasties, peoples etc.), and places are tagged. Names of professions and some terms are tagged.
 
-
-#### Tagging Conventions
-
-
-<DIV0>: The whole of a text, whether short or long, whether one volume or many
-
-
-<PS>: Surrounds all personal names
-
-
-<SN>: Identifies surnames within personal names
-
-
-<FN>: Identifies forenames within personal names
-
-
-<ON>: Identifies Organization names
-
-
-<PN>: Identifies Placenames
-
-
 #### Canonical References
 
 
