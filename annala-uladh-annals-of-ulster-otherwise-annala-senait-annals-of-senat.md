@@ -1,6 +1,6 @@
 
 
-#Annala Uladh: Annals of Ulster otherwise Annala Senait, Annals of Senat
+# Annala Uladh: Annals of Ulster otherwise Annala Senait, Annals of Senat
 
 
 #### Corpus of Electronic Texts Edition
@@ -119,9 +119,11 @@ Pre-Patrician Annals) with distinction of the main hand and the hands of
 successive interpolators and glossators; additional material from MS 2 is 
 printed and distinguished. Expansions of manuscript abbreviations are 
 indicated.
-**Translations.**2. Hennessy & Mac Carthy (1887–1901).
+**Translations.**
+2. Hennessy & Mac Carthy (1887–1901).
 3. Mac Airt & Mac Niocaill (1983)–to 1131.
-**Literature.**2. Trinity College Library Ir Cat 20.
+**Literature.**
+2. Trinity College Library Ir Cat 20.
 3. Oxford Cat i 153-63.
 4. Henri d'Arbois de Jubainville (notice of Hennessy, vol. i) Revue Celtique 8 (1888) 402-406.
 5. Whitley Stokes, 'Notes on the Annals of Ulster', Academy 36 (1889) 207-8, 223-5, 240-1; 50 (1896) 182-3, 
@@ -198,7 +200,8 @@ time, life and legacy', Clogher Rec 16/2 (1998)
 35. Daniel P. Mc Carthy, on his website at http://www.cs.tcd.ie/misc/kronos/chronology/synchronisms/annals-chron.htm offers comprehensive information on two traditions of dating used in the Irish Annals, together with two ancillary articles, 'Chronological synchronisation of the Irish annals', and 'Collation of the Irish regnal canon'.
 36. Daniel P. Mc Carthy, 'The original compilation of the Annals of Ulster', Studia Celtica 38 (2004) 77-84.
 37. Daniel P. Mc Carthy, The Irish Annals: their genesis, evolution and history (Dublin 2008).
-**The edition used in the digital edition.**2. Annala Uladh: Annals of Ulster otherwise Annala 
+**The edition used in the digital edition.**
+2. Annala Uladh: Annals of Ulster otherwise Annala 
 Senait, Annals of Senat. B. Mac Carthy (ed), First edition [vol. ii [iv, including 2 pages of corrigenda and addenda + 565 pp; vol. iii 637 pp + 4 pages of corrigenda and addenda] Lord Commissioner of Her Majesty's Treasury under the direction of the Council of the Royal Irish Academy (Her Majesty's Stationery Office) Dublin (1893)
 
 ### Encoding
@@ -309,7 +312,9 @@ tagged.
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Year. Refs: EVENT (<DIV2>)This text uses the DIV1 element to represent the Year. ### Profile Description
+This text uses the DIV1 element to represent the Year. Refs: EVENT (<DIV2></DIV2>)This text uses the DIV1 element to represent the Year. 
+
+### Profile Description
 
 
 Created: By mostly unknown authors in Irish monastic scriptoria and 
@@ -416,12 +421,6 @@ mark-up.
 * Data capture, using OPTOPUS, and initial proofing and mark-up at the 
 History Department, University College, Cork.
 
-
-
-
-
-
-
 #### Corpus of Electronic Texts Edition: G100001B
 
 
@@ -482,23 +481,19 @@ mharbadh do **Muircertach h-Ua Neill**.
 
 
 [1](javascript:footNote('G100001B/note001.html')) 
-(In t-**eascub h-Ua
-Mellaigh** quieuit.)
+(In t-**eascub h-Ua Mellaigh** quieuit.)
 
 
 #### U1202.4
 
 
-(**Iohannes, presbiter 
-Cardinalis de **Monte Celío**** et **legatus** Apostolic*a*e Sedis, in **Hiberniam** uenit.)
+(**Iohannes, presbiter Cardinalis de **Monte Celío**** et **legatus** Apostolic*a*e Sedis, in **Hiberniam** uenit.)
 
 
 #### U1202.5
 
 
-(**Senudh** chleireach **Eirenn**, itir **Ghallaibh** 
-& **Ghoeidhealaibh**, i n-**Ath Cliath** 
-imon **Cardinail** cetna sin.)
+(**Senudh** chleireach **Eirenn**, itir **Ghallaibh** & **Ghoeidhealaibh**, i n-**Ath Cliath** imon **Cardinail** cetna sin.)
 
 
 #### U1202.6
