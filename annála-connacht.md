@@ -166,7 +166,7 @@ Names (persons, groups, dynasties, tribes, peoples, places) are not tagged. Offi
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Annal. Refs: ENTRY (<DIV2></DIV2>>)This text uses the DIV1 element to represent the Annal. ### Profile Description
+This text uses the DIV1 element to represent the Annal. Refs: ENTRY (DIV2)This text uses the DIV1 element to represent the Annal. ### Profile Description
 
 
 Created: By mostly unknown scholars, chiefly of the Uí Duibhgennáin family, who were historians and chroniclers to Connacht aristocratic families.

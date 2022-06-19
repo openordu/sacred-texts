@@ -151,7 +151,7 @@ Soft hyphens are silently removed. When a hyphenated word (hard or soft) crosses
 ##### Segmentation
 
 
-DIV0=the whole work; DIV1=the individual annals (i.e. the annalistic matter gathered under one year); DIV2></DIV2>=the annalistic entry; paragraphs are marked; passages of verse occurring within paragraphs are treated as embedded texts and the stanzas are marked LG and metrical lines are marked L. Page-breaks are marked.
+DIV0=the whole work; DIV1=the individual annals (i.e. the annalistic matter gathered under one year); DIV2=the annalistic entry; paragraphs are marked; passages of verse occurring within paragraphs are treated as embedded texts and the stanzas are marked LG and metrical lines are marked L. Page-breaks are marked.
 
 
 ##### Standard Values

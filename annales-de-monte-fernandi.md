@@ -115,7 +115,7 @@ Names of persons (given names), and places are not tagged. Terms for cultural an
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Year. Refs: EVENT (<DIV2></DIV2>>)This text uses the DIV1 element to represent the Year. ### Profile Description
+This text uses the DIV1 element to represent the Year. Refs: EVENT (DIV2)This text uses the DIV1 element to represent the Year. ### Profile Description
 
 
 Created: By unknown chroniclers in Irish monasteries, compiling and redacting earlier materials.

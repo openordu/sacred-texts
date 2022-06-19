@@ -121,7 +121,7 @@ Names of persons, groups and places are tagged.
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the annal. Refs: ENTRY (<DIV2></DIV2>>)This text uses the DIV1 element to represent the annal. ### Profile Description
+This text uses the DIV1 element to represent the annal. Refs: ENTRY (DIV2)This text uses the DIV1 element to represent the annal. ### Profile Description
 
 
 Created: Created by Friar John Clyn, incorporating earlier materials.

@@ -153,7 +153,7 @@ line-break is marked after the completion of the hyphenated word.
 
 DIV0=the whole work;
 DIV1=the individual annal (the text for a given year);
-DIV2></DIV2>=the individual entry in an annal, whether these are numbered in the edition (Mac Airt & Mac Niocaill) or not (Mac Carthy). Passages of verse occurring within text paragraphs or within marginalia are treated as embedded texts and, where relevant, stanzas are enumerated
+DIV2=the individual entry in an annal, whether these are numbered in the edition (Mac Airt & Mac Niocaill) or not (Mac Carthy). Passages of verse occurring within text paragraphs or within marginalia are treated as embedded texts and, where relevant, stanzas are enumerated
 in the structural mark-up. The page-breaks of the printed texts and
 the manuscript folio numbers are marked. From 1379 to 1541 the folio and column numbers for MS H (earlier A) and R (earlier B) are given.
 

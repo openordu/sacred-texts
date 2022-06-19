@@ -184,7 +184,7 @@ tagged. Numbers have not been tagged. Dates and untranslated Gaelic terms have b
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Year. Refs: EVENT (<DIV2></DIV2>>)This text uses the DIV1 element to represent the Year. ### Profile Description
+This text uses the DIV1 element to represent the Year. Refs: EVENT (DIV2)This text uses the DIV1 element to represent the Year. ### Profile Description
 
 
 Created: By Seán Mac Airt (translation); revision of

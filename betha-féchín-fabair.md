@@ -127,37 +127,6 @@ Names of persons (given names), groups (dynasties, peoples etc.), and places are
 
 #### Tagging Conventions
 
-
-Some abbreviations of common descriptive markup have been used:
-
-<DIV0>: The whole of a text, whether one volume or
-many.
-
-
-<DIV1>: The principal subdivision of a text.
-
-
-<DIV2></DIV2>>: Secondary subdivision of the text.
-
-
-<PS>: Surrounds all personal names.
-
-
-<FN>: Identifies forenames within personal names.
-
-
-<SN>: Identifies surnames within personal names.
-
-
-<NL>: Identifies namelinks between forenames and surnames.
-
-
-<ON>: Organisation names.
-
-
-<PN>: Placenames.
-
-
 #### Canonical References
 
 
