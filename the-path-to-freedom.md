@@ -347,7 +347,7 @@ tagged. Terms for cultural and social roles are not tagged.
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Chapter. Refs: PAGE (<PB>)This text uses the DIV1 element to represent the Chapter. ### Profile Description
+This text uses the DIV1 element to represent the Chapter. Refs: PAGE (PB)This text uses the DIV1 element to represent the Chapter. ### Profile Description
 
 
 Created: By Michael Collins Date range: 1921-22.#### Use of language

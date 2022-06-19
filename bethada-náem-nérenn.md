@@ -195,7 +195,7 @@ Names of persons (given names and surnames), groups (dynasties, tribes, peoples 
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Life. Refs: LINE (<LB>)This text uses the DIV1 element to represent the Life. ### Profile Description
+This text uses the DIV1 element to represent the Life. Refs: LINE (LB)This text uses the DIV1 element to represent the Life. ### Profile Description
 
 
 Created: By unknown authors in Irish monastic scriptoria

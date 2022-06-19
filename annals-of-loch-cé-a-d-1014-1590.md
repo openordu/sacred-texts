@@ -129,7 +129,7 @@ Names of persons (given names), and places are not tagged. Terms for cultural an
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Annal. Refs: PAGE (<PB>)This text uses the DIV1 element to represent the Annal. ### Profile Description
+This text uses the DIV1 element to represent the Annal. Refs: PAGE (PB)This text uses the DIV1 element to represent the Annal. ### Profile Description
 
 
 Created: By unknown Irish monastic scholars.#### Use of language

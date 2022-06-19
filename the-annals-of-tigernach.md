@@ -136,7 +136,7 @@ Names of persons (given names), and places are not tagged. Nor are terms for cul
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Annal. Refs: VOLUME (<FOLIO>)This text uses the DIV1 element to represent the Annal. Refs: PAGE (<PB>)This text uses the DIV1 element to represent the Annal. ### Profile Description
+This text uses the DIV1 element to represent the Annal. Refs: VOLUME (FOLIO)This text uses the DIV1 element to represent the Annal. Refs: PAGE (PB)This text uses the DIV1 element to represent the Annal. ### Profile Description
 
 
 Created: Translation by Gearóid Mac Niocaill. [For details of Irish text, please see file G100002A]

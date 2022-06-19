@@ -1813,7 +1813,7 @@ A totally different scheme accompanied the Bill of 1893 as introduced. The princ
 p.123
 
 
-*The table on <SchemeA.pdf> attached here illustrates the list on p. 120–21.*
+*The table on SchemeA.pdf attached here illustrates the list on p. 120–21.*
 
 
 ---

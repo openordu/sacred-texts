@@ -314,7 +314,7 @@ Names of persons, tribes, peoples, and places are tagged. Offices and titles (ki
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Text. Refs: LINE (<LB>)This text uses the DIV1 element to represent the Text. Refs: PAGE (<PB>)This text uses the DIV1 element to represent the Text. ### Profile Description
+This text uses the DIV1 element to represent the Text. Refs: LINE (LB)This text uses the DIV1 element to represent the Text. Refs: PAGE (PB)This text uses the DIV1 element to represent the Text. ### Profile Description
 
 
 Created: By unknown authors in Irish monastic scriptoria.

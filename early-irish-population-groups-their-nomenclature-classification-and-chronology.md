@@ -1628,7 +1628,7 @@ p.84
 ¶60] The chief septs of the **Eoganachta** are traced to two sons of Ailill Flann Becc; Luguid and Dáire Cerba. 
 
 
-*The Genealogical table of the Eoghanachta is reproduced in <gentab1.pdf>.*
+*The Genealogical table of the Eoghanachta is reproduced in gentab1.pdf.*
 
 
 ¶61] The **Eoganacht** of **Cashel**, the suzerain line, do not appear to have taken any sept-name in Ui. The pedigree of Oengus (killed in 489, AU) is given as follows: 1 Ailill Flann Becc, 2 Luguid, 3 Corc, 4 Nat Fróich, 5 Oengus. According to the genealogical account, Ui-names among the **Eoganachta** arise from ancestors two generations older than Oengus, and continue to arise until an ancestor is reached two generations later than Oengus. The eponyms would appear to date from about the beginning of the fifth until the middle of the sixth century. Of course it is to be borne in mind that a sept-name in Ui is at least two generations later than its eponym, so that with the **Eoganachta**, septs continued to be named afresh under this formula until the end of the sixth century.

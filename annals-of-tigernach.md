@@ -191,7 +191,7 @@ Such tagging is envisaged in a future electronic edition.
 #### Canonical References
 
 
-This text uses the DIV1 element to represent the Annal. Refs: VOLUME (<FOLIO>)This text uses the DIV1 element to represent the Annal. Refs: PAGE (<PB>)This text uses the DIV1 element to represent the Annal. ### Profile Description
+This text uses the DIV1 element to represent the Annal. Refs: VOLUME (FOLIO)This text uses the DIV1 element to represent the Annal. Refs: PAGE (PB)This text uses the DIV1 element to represent the Annal. ### Profile Description
 
 
 Created: By unknown Irish monastic scholars.
